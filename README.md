@@ -1,7 +1,7 @@
 # computer-vision-interview
 Interview questions to ponder related to computer vision.
 
-##Imaging Systems
+## Imaging Systems
 
 * rough overview of a camera calibration process
 * say you have acquired a number of constraints for example during camera calibration process - how do you solve the system of the constraints (e.g. describe gradient method in 3-4 sentences)
